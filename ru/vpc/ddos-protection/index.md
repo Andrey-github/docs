@@ -1,6 +1,6 @@
 # Yandex DDoS Protection
 
-Yandex DDoS Protection — это компонент сервиса VPC для защиты облачных ресурсов от DDoS-атак. DDoS Protection предоставляется в партнерстве с Qrator Labs. 
+Yandex DDoS Protection — это компонент сервиса Yandex Virtual Private Cloud (VPC) для защиты облачных ресурсов от DDoS-атак. DDoS Protection предоставляется в партнерстве с Qrator Labs. 
 
 DDoS Protection фильтрует трафик на 2-м и 3-м уровнях сетевой модели OSI и защищает от SYN-флуд атак. Весь трафик, поступающий из интернета на защищенный IP-адрес проверяется полностью, даже если DDoS-атака не ведется.
 
